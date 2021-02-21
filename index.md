@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DONT MESS WITH LOGAN
 
 You can use the [editor on GitHub](https://github.com/Beta-Y3N/.-P1X3L-./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
